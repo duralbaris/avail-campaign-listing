@@ -1,0 +1,8 @@
+{
+  "name": "barsbaba",
+  "logo": "https://github.com/duralbaris/hugo-template/blob/main/honeybadger.jpg?raw=true",
+  "rpc_url": "http://65.109.227.50:9944",
+  "explorer_url": "http://65.109.227.50:4000",
+  "metrics_endpoint": "http://65.109.227.50:9615/metrics",
+  "id": "27ff18c2-29a5-479d-becf-0760433c00be"
+}
